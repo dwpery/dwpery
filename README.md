@@ -1,3 +1,2 @@
-Im @SpicyPTV and I am a Software Engineer and Web Designer
-
-My main project at the moment is SPWriter : The focus orientated writing software
+<h1 align="center">Pieter Edwards</h1>
+<h5 align="center">A fullstack Web Developer and Software Developer</h5>
