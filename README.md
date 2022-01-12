@@ -14,7 +14,7 @@
 <p>Clock Web App is an Open Source software designed to make the life of developers and consumers easier with a lightweigth, easy to use and easy to develop software that fits seamlessly into any project</p>
 <h3><a href="https://github.com/SpicyPTV/SPWriter">SPWriter - The focus orientated writing software</a></h3>
 <p>A writing software that removes all distractions whilst still having all the features and allows you to focus on what's important, the writing itself. With intuitive UI it has never been easier to sit down and start writting your next project. No premium memberships or other bother. Every feature, for every user.</p>
-<h3><a href="https://github.com/SpicyPTV/SPWriter">Idea Bot - A Discord bot for idea gathering</a></h3>
+<h3><a href="https://github.com/SpicyPTV/IdeaBot">Idea Bot - A Discord bot for idea gathering</a></h3>
 <p>A discord bot that gives an idea on how to improve the server or cure your boredom on command when a user types '!idea'. This basic bot is developed in Python and is primarily used to demonstrate my Python abilitites</p>
 <h2>Open Source projects I have contributed to</h2>
 <h3><a href="https://github.com/marktext/marktext">MarkText -  The next generation markdown editor </a></h3>
