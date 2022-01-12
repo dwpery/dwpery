@@ -16,7 +16,7 @@
 <p>A writing software that removes all distractions whilst still having all the features and allows you to focus on what's important, the writing itself. With intuitive UI it has never been easier to sit down and start writting your next project. No premium memberships or other bother. Every feature, for every user.</p>
 <h3><a href="https://github.com/SpicyPTV/SPWriter">Idea Bot - A Discord bot for idea gathering</a></h3>
 <p>A discord bot that gives an idea on how to improve the server or cure your boredom on command when a user types '!idea'. This basic bot is developed in Python and is primarily used to demonstrate my Python abilitites</p>
-<h2>Projects I have contributed to</h2>
+<h2>Open Source projects I have contributed to</h2>
 <h3><a href="https://github.com/marktext/marktext">MarkText -  The next generation markdown editor </a></h3>
 <p>A simple and elegant open-source markdown editor that focused on speed and usability available for Linux, macOS and Windows.</p>
 <h3><a href="https://github.com/darkreader/darkreader">Dark Reader - The Dark Reader Chrome and Firefox extension</a></h3>
