@@ -1,5 +1,5 @@
 <h1 align="center">Pieter Edwards</h1>
-<h5 align="center">A fullstack Web Developer and Software Engineer<br><a href="https://spicyptv.github.io/portfolio/">Portfolio</a></h5>
+<h5 align="center">A fullstack Web Developer and Software Engineer<br><br><a href="https://spicyptv.github.io/portfolio/">Portfolio</a></h5>
 <h2>My Skills</h2>
 <p>I have a wide range of skills with Web Programming and Software Development. I mainly focus on building web apps and websites but will sometimes work on software. I have even developed Discord bots in the past.<br><br>I programme in the following languages:</p>
 <ul>
