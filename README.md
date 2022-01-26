@@ -8,6 +8,7 @@
   <li>JavaScript <b>( UTF-8, Node.js )</b></li>
   <li>C++</li>
   <li>Python <b>( 3 )</b></li>
+  <li><a href="https://www.sololearn.com/profile/12422891">Certificates</a></li>
 </ul>
 <h2>My Projects:</h2>
 <h3><a href="https://github.com/SpicyPTV/ClockWebApp">Clock Web App - An Open Source clock web app</a></h3>
