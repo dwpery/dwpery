@@ -9,7 +9,7 @@
   <li>C++</li>
   <li>Python <b>( 3 )</b></li>
 </ul>
-<p><a href="https://github.com/SpicyPTV?tab=repositories">More...</a></p>
+<h3><a href="https://github.com/SpicyPTV?tab=repositories">More...</a></h3>
 <h2>My Projects:</h2>
 <h3><a href="https://github.com/SpicyPTV/ClockWebApp">Clock Web App - An Open Source clock web app</a></h3>
 <p>Clock Web App is an Open Source software designed to make the life of developers and consumers easier with a lightweigth, easy to use and easy to develop software that fits seamlessly into any project</p>
