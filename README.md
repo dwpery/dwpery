@@ -21,5 +21,5 @@
 <h2>Projects I have contributed to:</h2>
 <h3><a href="https://github.com/marktext/marktext">MarkText -  The next generation markdown editor </a></h3>
 <p>A simple and elegant open-source markdown editor that focused on speed and usability available for Linux, macOS and Windows.</p>
-<h3><a href="https://github.com/darkreader/darkreader">Dark Reader - The Dark Reader Chrome and Firefox extension</a></h3>
+<h3><a href="https://github.com/darkreader/darkreader">Dark Reader - The Dark Reader Chromium and Firefox extension</a></h3>
 <p>Dark Reader analyzes web pages and aims to reduce the eyestrain while you browse the web.</p>
