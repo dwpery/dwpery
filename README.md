@@ -7,6 +7,7 @@
   <li>CSS <b>(3)</b></li>
   <li>JavaScript <b>(UTF-8, Node.js)</b></li>
   <li>C++</li>
+  <li>C#</li>
   <li>Python <b>(3)</b></li>
 </ul>
 <h2>My Projects: </h2>
