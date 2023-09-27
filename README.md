@@ -15,6 +15,8 @@
 <h2>My Projects: </h2>
 <h3><a href="https://github.com/SpicyPTV/ClockWebApp">Clock Web App - An Open Source Clock Web App</a></h3>
 <p>Clock Web App is an Open Source software designed to make the life of developers and consumers easier with a lightweigth, easy to use and easy to develop software that fits seamlessly into any project</p>
+<h3><a href="https://github.com/SpicyPTV/ClockWebApp">SearchPlaces (Early development)</a></h3>
+<p>SearchPlaces is a powerful Progressive Web App (PWA) that allows you to create custom browser homepages to act as your gateay to the web!</p>
 <h3><a href="https://github.com/SpicyPTV?tab=repositories">More...</a></h3>
 <h2>Projects I have contributed to:</h2>
 <h3><a href="https://github.com/marktext/marktext">MarkText -  The next generation markdown editor </a></h3>
