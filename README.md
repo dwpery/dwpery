@@ -1,7 +1,7 @@
 <h1 align="center">Pieter Edwards</h1>
 <h3 align="center">dwpery | pieter.ed</h3>
 <h6 align="center">Fullstack Web Developer<br></h6>
-<h5 align="center"><a href="https://www.buymeacoffee.com/PieterEdwards">Support Me</a></h5>
+<h5 align="center"><a href="https://dwpery.github.io/portfolio/">Portfolio</a><a>⠀⠀⠀</a><a href="https://www.buymeacoffee.com/PieterEdwards">Support Me</a></h5>
 <h2>My Skills:</h2>
 <p>I have a wide range of skills with Web Programming and Software Development. I mainly focus on building Progressive Web Apps and websites but will sometimes work on software.<br><br>I programme in the following languages:</p>
 <ul>
