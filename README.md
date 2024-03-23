@@ -15,6 +15,6 @@
 <h2>My Projects: </h2>
 <h3><a href="https://github.com/dwpery/ClockWebApp">Clock Web App - An Open Source Progressive Web App</a></h3>
 <p>Clock Web App is an Open Source Progressive Web App designed to be simple and easy to use but feature rich offering every feature and more you'd expect from a Clock App.</p>
-<h3><a href="https://github.com/dwpery/SearchPlaces">SearchPlaces (Early development)</a></h3>
+<h3><a href="https://github.com/dwpery/SearchPlaces">SearchPlaces (June 15th 2024)</a></h3>
 <p>SearchPlaces is a powerful Progressive Web App (PWA) that allows you to create custom browser homepages to act as your gateway to the web whenever you open your browser!</p>
 <h3><a href="https://github.com/SpicyPTV?tab=repositories">More...</a></h3>
