@@ -17,7 +17,7 @@
 <h3><a href="https://github.com/dwpery/ClockWebApp">ClockPWA</a></h3>
 <h4><i>'20 - '23</i></h4>
 <p>Clock Web App is an Open Source Progressive Web App designed to be simple and easy to use but feature rich offering every feature and more you'd expect from a Clock App.</p>
-<h3><a href="https://github.com/dwpery/ClockWebApp">SearchPlaces</a></h3>
+<h3><a href="https://github.com/dwpery/SearchPlaces">SearchPlaces</a></h3>
 <h4><i>'24 - Present</i></h4>
 <p>SearchPlaces is a powerful Progressive Web App (PWA) that allows you to create custom browser homepages to act as your gateway to the web whenever you open your browser!</p>
 
