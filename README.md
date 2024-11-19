@@ -11,7 +11,7 @@
 </div>
 <!-- Proffesional Summary -->
 <h3>Professional summary</h3>
-<p>Committed to building a free and Open Source future for the web through the development of Progressive Web Apps (PWAs). Currently a hobbiest programmer working if and when inspiration strikes with aspirations of studying in the field and making Software Development my future career.</p>
+<p>Committed to building a free and Open Source future for the web through the development of Progressive Web Apps (PWAs). Currently a hobbyist programmer working if and when inspiration strikes with aspirations of studying in the field and making Software Development my future career.</p>
 <!-- Projects -->
 <h3>Highlighted projects</h3>
 <h3><a href="https://github.com/dwpery/ClockWebApp">ClockPWA</a></h3>
