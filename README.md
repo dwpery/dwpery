@@ -4,7 +4,7 @@
   <h3><i>Full-stack Web Developer</i></h3>
   <h6>
     <b>
-    <a href="https://www.instagram.com/dwpery/">(@dwpery)</a><a>⠀</a>
+    <a href="https://bsky.app/profile/pieteredwards.com">(@dwpery)</a><a>⠀</a>
     <a href="https://dwpery.github.io/portfolio/">(Portfolio)</a><a>⠀</a>
     <a href="https://buymeacoffee.com/pieteredwards">(Donate)</a>
   </h6>
